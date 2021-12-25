@@ -1,2 +1,1 @@
 # ArcoLinux Plank Themes
-
